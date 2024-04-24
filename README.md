@@ -1,2 +1,2 @@
 # Lauchpad-Newsletter
-Lauchpad_Newsletter by Html and Css
+Lauchpad_Newsletter by Html
